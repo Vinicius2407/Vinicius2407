@@ -1,8 +1,8 @@
 # Vinicius Silva Pereira
 
-Bem vindoo ao meu esconderijo.
+Welcome to my hideout.
 
-Meu nome é Vinicius, mas pode me chamar de Vini.
-Sou entusiasta para programação, e estou disposto a ir longe para aprender cada vez mais sobre essa maravilhosa área.
+My name is Vinicius, but you can call me Vini.
+I'm passionate about programming, and I am willing to go the distance to learn more and more about this wonderful area.
 
-Estou indo para o Dark Side com Node.js, tive contato e apaixonei desda primeira vista.
+I'm going to the Dark Side with Node.js, I had contact and I fell in love from the first sight.
