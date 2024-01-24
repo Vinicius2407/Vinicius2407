@@ -27,7 +27,8 @@
 
 ## Como entrar em contato
 - 📧 [Email](mailto:viniciussilvapereira.dev24@gmail.com)
-- 📷 [Instagram](https://www.instagram.com/viniciussp.2407/)
+- 📷 <a href="https://www.instagram.com/viniciussp.2407/" target="_blank">Instagram</a>
+- 👥 <a href="https://www.linkedin.com/in/vinicius-silva-pereira-626103207/" target="_blank">LinkedIn</a>
 
 ## Colaboração
 - 🤝 Aberto para colaborar em projetos. Sinta-se à vontade para me contatar.
