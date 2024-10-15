@@ -5,9 +5,11 @@
 - 💻 Desenvolvedor Full Stack, focado em C# para o backend e tecnologias web para o frontend.
 
 ## Principais Tecnologias
-- Backend: C#, .NET, Entity Framework, Node.js.
-- Frontend: HTML, CSS/SCSS, JavaScript/TypeScript, Angular, Bootstrap.
+- Backend: C#, .NET/Core, Entity Framework, Node.js.
+- Frontend: JavaScript/Typescript, Angular, React, Next.js, Bootstrap, .
+- Mobile: Typescript, React Native, Tailwind.
 - Banco de Dados: SQL (PostgreSQL).
+- Sistemas de Integrações: Firebase, Google Maps API.
 
 ## Atualmente na [Genius Web Solutions]
 - 💼 Desenvolvedor Full Stack na [Genius](https://www.geniusws.com.br/), especializado em oferecer soluções tecnológicas para agências de turismo.
@@ -26,7 +28,7 @@
 - 🚀 Melhorando constantemente minhas habilidades em C# para o desenvolvimento backend.
 
 ## Como entrar em contato
-- 📧 [Email](mailto:viniciussilvapereira.dev24@gmail.com)
+- 📧 [Email](mailto:viniciussilvapereira24@gmail.com)
 - 📷 <a href="https://www.instagram.com/viniciussp.2407/" target="_blank">Instagram</a>
 - 👥 <a href="https://www.linkedin.com/in/vinicius-silva-pereira-626103207/" target="_blank">LinkedIn</a>
 
