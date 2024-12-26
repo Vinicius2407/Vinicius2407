@@ -11,7 +11,7 @@
 - Banco de Dados: SQL (PostgreSQL).
 - Sistemas de Integrações: Firebase, Google Maps API.
 
-## Atualmente na [Genius Web Solutions]
+## Atualmente na Genius Web Solutions
 - 💼 Desenvolvedor Full Stack na [Genius](https://www.geniusws.com.br/), especializado em oferecer soluções tecnológicas para agências de turismo.
 - 🌐 Contribuindo para o desenvolvimento de um sistema abrangente que permite aos agentes vender desde passagens aéreas e hotéis até circuitos fechados de viagem.
 - 🛫 Facilitando parcerias com fornecedores confiáveis para garantir uma ampla gama de opções aos clientes.
