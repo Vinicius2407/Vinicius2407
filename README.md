@@ -1,41 +1,62 @@
-# Olá, eu sou Vinicius Silva! 👋
+# Olá, eu sou o Vinicius Silva! 👋
 
-## Sobre mim
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 💻 Desenvolvedor Full Stack, focado em C# para o backend e tecnologias web para o frontend.
+## 👨‍💻 Sobre mim
+Sou Desenvolvedor Full Stack Pleno com mais de 2 anos de experiência no desenvolvimento de aplicações web e mobile. Graduado em Análise e Desenvolvimento de Sistemas, atuo com foco no backend utilizando C#/.NET e no frontend com frameworks modernos como Angular e React.
 
-## Principais Tecnologias
-- Backend: C#, .NET/Core, Entity Framework, Node.js.
-- Frontend: JavaScript/Typescript, Angular, React, Next.js, Bootstrap, .
-- Mobile: Typescript, React Native, Tailwind.
-- Banco de Dados: SQL (PostgreSQL).
-- Sistemas de Integrações: Firebase, Google Maps API.
+Sou apaixonado por tecnologia, metodologias ágeis e boas práticas de desenvolvimento, sempre buscando aprender e evoluir constantemente.
 
-## Atualmente na Genius Web Solutions
-- 💼 Desenvolvedor Full Stack na [Genius](https://www.geniusws.com.br/), especializado em oferecer soluções tecnológicas para agências de turismo.
-- 🌐 Contribuindo para o desenvolvimento de um sistema abrangente que permite aos agentes vender desde passagens aéreas e hotéis até circuitos fechados de viagem.
-- 🛫 Facilitando parcerias com fornecedores confiáveis para garantir uma ampla gama de opções aos clientes.
+---
 
-## Projetos Notáveis
-- 🎓 Projeto Integrador: Rede social web para conectar artistas e organizações de eventos.
-- 🚀 Projetos internos da empresa.
+## 🛠️ Tecnologias e Ferramentas
+**Backend:** C#, .NET (Framework e Core), Entity Framework, Node.js  
+**Frontend:** TypeScript, Angular, React, Next.js, Bootstrap  
+**Mobile:** React Native (com Expo), Tailwind CSS  
+**Banco de Dados:** PostgreSQL (SQL)  
+**Integrações & APIs:** Firebase, Google Maps API  
+**Outros:** Git/GitHub, DevOps básico (CI/CD), AWS (S3, Serverless)
 
-## Participação em Eventos
-- 🌐 Participação em eventos como a Latinoware (Foz do Iguaçu) e eventos online.
+---
 
-## O que estou aprendendo
-- 📚 Buscando aprimorar habilidades em Frontend para seguir as melhores práticas.
-- 🚀 Melhorando constantemente minhas habilidades em C# para o desenvolvimento backend.
+## 💼 Experiência Atual
+Atualmente trabalho na [Genius Web Solutions](https://www.geniusws.com.br/) como Desenvolvedor Full Stack. Participo do desenvolvimento de uma plataforma completa para agências de turismo, com foco em:
 
-## Como entrar em contato
+- Venda de passagens aéreas, hospedagens e pacotes fechados.
+- Integração com diversos fornecedores confiáveis.
+- Evolução contínua da aplicação com práticas modernas de desenvolvimento.
+
+---
+
+## 🚀 Projetos Relevantes
+- **Rede Social para Artistas:** Projeto integrador de conclusão de curso. Plataforma web voltada à conexão entre artistas e organizadores de eventos.
+- **Projetos internos (Genius):** Aplicações profissionais com foco em performance, usabilidade e escalabilidade.
+
+---
+
+## 🎯 Em constante evolução
+Atualmente estou focado em:
+- Aprofundar meus conhecimentos em frontend moderno e UI/UX.
+- Aprimorar ainda mais meu domínio em C# e arquitetura de software.
+- Fortalecer minha experiência com cloud (AWS) e DevOps.
+
+---
+
+## 📢 Eventos e Comunidade
+- Participação em eventos como a **Latinoware (Foz do Iguaçu)**.
+- Envolvimento em eventos e comunidades online de tecnologia.
+
+---
+
+## 📫 Como me encontrar
 - 📧 [Email](mailto:viniciussilvapereira24@gmail.com)
-- 📷 <a href="https://www.instagram.com/viniciussp.2407/" target="_blank">Instagram</a>
-- 👥 <a href="https://www.linkedin.com/in/vinicius-silva-pereira-626103207/" target="_blank">LinkedIn</a>
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius2407/)
+- 📷 [Instagram](https://www.instagram.com/viniciussp.2407/)
 
-## Colaboração
-- 🤝 Aberto para colaborar em projetos. Sinta-se à vontade para me contatar.
+---
 
-## Mensagem
-- 💡 "Incentivo a busca por conhecimento na área de programação. Estou aqui para ajudar e inspirar, assim como fui inspirado no meu caminho!"
+## 🤝 Vamos colaborar?
+Estou aberto a colaborações, freelas, networking ou apenas bater um papo sobre tecnologia. Sinta-se à vontade para entrar em contato!
 
+---
 
+## 💡 Mensagem final
+> “A busca por conhecimento é constante. Compartilhar e aprender juntos é o que move a tecnologia — e eu estou aqui para isso.”
