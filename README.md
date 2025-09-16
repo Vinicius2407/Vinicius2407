@@ -18,11 +18,12 @@ Sou apaixonado por tecnologia, metodologias ágeis e boas práticas de desenvolv
 ---
 
 ## 💼 Experiência Atual
-Atualmente trabalho na [Genius Web Solutions](https://www.geniusws.com.br/) como Desenvolvedor Full Stack. Participo do desenvolvimento de uma plataforma completa para agências de turismo, com foco em:
+Atualmente, atuo como **Desenvolvedor Full Stack Freelancer**. Sou especializado em desenvolver soluções completas e personalizadas, com foco em:
 
-- Venda de passagens aéreas, hospedagens e pacotes fechados.
-- Integração com diversos fornecedores confiáveis.
-- Evolução contínua da aplicação com práticas modernas de desenvolvimento.
+- **Criação de plataformas de gestão:** Desenvolvimento de sistemas do zero, incluindo telas de login, interfaces de configuração e dashboards administrativos.
+- **Processamento e automação de dados:** Implementação de funcionalidades para o upload de arquivos (ex: CSV) e processamento de dados para a definição de regras e parâmetros personalizados.
+- **Integração com APIs:** Conexão com serviços externos para funcionalidades como cálculo de frete, pagamentos e outras ferramentas essenciais.
+- **Manutenção e evolução:** Trabalho contínuo na melhoria e modernização de aplicações, utilizando práticas ágeis de desenvolvimento.
 
 ---
 
