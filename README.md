@@ -50,7 +50,7 @@ Atualmente estou focado em:
 ## 📫 Como me encontrar
 - 📧 [Email](mailto:viniciussilvapereira24@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinicius2407/)
-- 📷 [Instagram](https://www.instagram.com/viniciussp.2407/)
+- 📷 [Instagram](https://www.instagram.com/vini.dev.byvsp/)
 
 ---
 
